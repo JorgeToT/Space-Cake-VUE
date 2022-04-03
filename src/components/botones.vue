@@ -26,7 +26,7 @@ button {
   border-radius: 40px;
   border: none;
   cursor: pointer;
-  width: 300px;
+  width: 250px;
 }
 
 button span {

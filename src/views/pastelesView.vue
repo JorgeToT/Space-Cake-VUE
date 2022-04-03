@@ -1,5 +1,5 @@
 <template>
-  <h1>Menú de Pasteles</h1>
+  <h1>Pasteles</h1>
   <section>
     <cake
       img="https://file.adomicil.io/esperanza.tr3sco.net/_files/images/product/imagen-8-0683851078005438.png"
@@ -68,7 +68,6 @@
     />
   </section>
   <footer>
-
     <info />
   </footer>
 </template>
@@ -105,8 +104,8 @@ footer {
   justify-content: space-between;
   padding: 30px 50px;
 }
-@media (max-width: 450px){
-  section{
+@media (max-width: 450px) {
+  section {
     margin: 0;
   }
 }

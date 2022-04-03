@@ -11,6 +11,9 @@
       <router-link to="/decoracionesView"
         ><buttonBlue nameButton="Decoraciones"
       /></router-link>
+      <router-link to="/contactView"
+        ><buttonBlue nameButton="Contacto"
+      /></router-link>
       <router-link to="/adminView"
         ><buttonBlue nameButton="Admin"
       /></router-link>
@@ -90,6 +93,6 @@ nav a {
 }
 
 nav a.router-link-exact-active button {
-  height: 50px;
+  height: 60px;
 }
 </style>
